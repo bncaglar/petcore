@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97102802098",
+    "project_id": "petcoredemo",
+    "storage_bucket": "petcoredemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97102802098:android:b1e3bc9945893e37452dab",
+        "android_client_info": {
+          "package_name": "com.example.log_in_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97102802098-ttevakm042qcg05euvufc1l0uv7kqhn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCljcX1VvVPeW5B6xRSomdAkVzw_XciNUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97102802098-ttevakm042qcg05euvufc1l0uv7kqhn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
